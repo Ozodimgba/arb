@@ -1,0 +1,9 @@
+/workspace/arb/logic/target/debug/deps/libspl_transfer_hook_interface-20dc8b7bce98d447.rmeta: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/error.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/instruction.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/offchain.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/onchain.rs
+
+/workspace/arb/logic/target/debug/deps/spl_transfer_hook_interface-20dc8b7bce98d447.d: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/error.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/instruction.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/offchain.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/onchain.rs
+
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/error.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/instruction.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/offchain.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.4.1/src/onchain.rs:
